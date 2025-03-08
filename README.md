@@ -6,6 +6,7 @@ I'm a self-taught Web Weveloper with a keen interest in 3D web development. I'm 
 - Building immersive web experiences
 - Experimenting with Three.js and 3D graphics
 - Learning and refining my development skills every day
+  
 💡 Tech I'm into:
 
 - JavaScript, TypeScript
